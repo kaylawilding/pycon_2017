@@ -71,3 +71,11 @@ tutorial_output/
 api.png
 top10.csv
 test/
+
+#API Key
+{
+    "consumer_key": "4b87d1de6836e2e484bdb8f95cc05030",
+    "consumer_secret": "YOUR_CONSUMER_SECRET",
+    "token": "YOUR_TOKEN",
+    "token_secret": "YOUR_TOKEN_SECRET"
+}
